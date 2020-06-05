@@ -1,5 +1,7 @@
 # generate-to binary-and-decimal
 binary code  to decimale translation
+
+
 decimal code to binary code tranlation
 
 
